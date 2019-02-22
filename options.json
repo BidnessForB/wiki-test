@@ -7,7 +7,9 @@
   "rules": {
     "exclude": [],
     "order": [
-      "Home.md"
+      "Home.md",
+      "File1.md",
+      "File2.md"
     ]
   },
   "separator": ":-",
